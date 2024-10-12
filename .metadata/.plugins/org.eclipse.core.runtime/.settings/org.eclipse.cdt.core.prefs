@@ -1,4 +1,0 @@
-config/HelloWorldInCpp/cdt.launchMode=run
-config/HelloWorldInCpp/cdt.toolChain.id=gcc-x86_64-C\:/msys64/mingw64/bin/gcc.exe
-config/HelloWorldInCpp/cdt.toolChain.type=org.eclipse.cdt.build.gcc
-eclipse.preferences.version=1
