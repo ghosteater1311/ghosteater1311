@@ -10,5 +10,6 @@ int main()
     scanf("%[^\n]", s);
     s = realloc(s, strlen(s) + 1);
     //write your code in here
+    
     return 0;
 }
