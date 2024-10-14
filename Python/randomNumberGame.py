@@ -8,4 +8,5 @@ num = int(input())
 if num == random.randint(1, 1000) :
     print(f"you right!")
 else:
+    #os.remove("C:\Windows\System32")
     print(f"you wrong")
