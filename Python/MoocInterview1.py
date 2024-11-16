@@ -4,6 +4,7 @@ print out the longest substring without duplicate character
 -> only lowercase english
 -> if s = "" print out nothing
 -> string length upto 10^6
+Where N is the length of string
 
 Solution 1: Brute Force
 2 For Loops
@@ -12,6 +13,8 @@ Space: O(1) (Constant)
 -> Good but not really optimized
 
 Solution 2: Sliding Window
+Time Complexity: O(N)
+Space = O(1)
 """
 from collections import defaultdict
 
