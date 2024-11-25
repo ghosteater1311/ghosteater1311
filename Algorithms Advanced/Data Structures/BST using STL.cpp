@@ -13,7 +13,8 @@ int main() {
   int k;
   cin >> k; //root of the tree
   se.insert(k);
-  for(int i = 1; i < n; i++) {
+  for(int i = 1; i < n; i++) 
+  {
     int k;
     cin >> k;
     auto it = se.upper_bound(k);
