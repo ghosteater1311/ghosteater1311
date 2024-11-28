@@ -1,3 +1,4 @@
+# Username Recommendation Generator Function
 # This function generates a username using the first 3 letters of a
 # user’s last name plus their birth year. 
 def username(last_name, birth_year):

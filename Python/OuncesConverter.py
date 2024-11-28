@@ -1,3 +1,4 @@
+# Ounces Coverter Function
 # This function converts measurement equivalents. Output is formatted 
 # as, "x ounces equals y pounds", with y limited to 2 decimal places. 
 def convert_weight(ounces):
@@ -10,7 +11,7 @@ def convert_weight(ounces):
     # variable and the second is for the "pounds" variable. The second
     # placeholder formats the float result of the conversion 
     # calculation to be limited to 2 decimal places.
-    result = "{} ounces equals {:.2f} pounds".format(ounces,pounds)
+    result = "{} ounces equals {:.2f} pounds".format(ounces, pounds)
     return result
 
 

@@ -1,4 +1,4 @@
-# Palindrome string checking function
+# Palindrome String Checking Function
 # This function accepts a given string and checks each character of 
 # the string to see if it is a letter or not. If the character is a
 # letter, that letter is added to the end of the string variable
