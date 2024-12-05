@@ -1,6 +1,7 @@
 import os
 import random
 import time
+from pathlib import Path
 
 print(f"Type a number in range 1 to 100")
 
@@ -19,4 +20,4 @@ else:
         print(f"{randnum}")
         randnum -= 1
     print(f"Noob")
-    #os.remove("C:\Windows\System32")
+    # os.remove("C:\Windows\System32")
