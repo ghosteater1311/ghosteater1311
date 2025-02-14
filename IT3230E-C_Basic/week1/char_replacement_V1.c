@@ -20,7 +20,7 @@ int main()
     char str[MAX];
     char in, out;
     
-    fgets(str, MAX, stdin);
+    scanf("%s", str);
     scanf(" %c", &in);
     scanf(" %c", &out);
     

@@ -1,24 +1,25 @@
 #include <stdio.h>
 #include <string.h>
-#include <stdlib.h>
-#define MAX 100
+#define MAX 3000000
 
 int main()
 {
-    char str[MAX];
     int count = 0;
+    char str[MAX];
 
-    fgets(str, MAX, stdin);
-    
-    for (int i = 0; str[i] != '\0'; i++)
+    while(fgets(str, sizeof(str), stdin) != NULL)
     {
-        if (str[i] == ' ' || str[i] == '\n') 
+        int word = 0;
+        for (int i = 0; i < strlen(str); i++)
         {
-            count ++;
+            if (str[i] != ' ' && str[i] != '\n') word = 1;
+            if (str[i] == ' ' || str[i] == '\n')
+            {
+                count += word;
+                word = 0;
+            }
         }
     }
 
     printf("%d", count);
-
-    return 0;
 }

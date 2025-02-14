@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-#define MAX 100
+#define MAX 100000
 
 int main()
 {

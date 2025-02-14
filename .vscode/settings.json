@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "vector": "cpp",
-        "random": "c"
+        "random": "c",
+        "string.h": "c"
     }
 }

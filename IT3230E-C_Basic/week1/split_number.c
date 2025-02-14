@@ -15,8 +15,9 @@ int main()
 
     split(num, &integer, &fraction);
 
-    printf("%d\n", integer);
-    printf("%0.1lf", fraction);
+    printf("%d ", integer);
+    if (fraction < 0) printf("%0.2lf", 0 - fraction);
+    else printf("%0.2lf", fraction);
 
     return 0;
 }

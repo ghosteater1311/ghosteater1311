@@ -1,43 +1,40 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#define MAX 1000
+#include <stdio.h> 
+#include <string.h> 
+int main() 
+{     
+    char str1[3];     
+    char str2[100];     
+    char str3[400];     
+    char temp[200];     
 
-int main()
-{
-    char text_in[3];
-    char text_out[MAX];
-    char str[MAX];
-    char temp[MAX];
-
-    scanf("%s", text_in);
-    getchar();
-    fgets(text_out, MAX, stdin);
-    fgets(str, MAX, stdin);
-
-    strcpy(temp, str);
+    scanf("%s", str1);     
+    getchar();     
+    fgets(str2, sizeof(str2), stdin);     
+    fgets(str3, sizeof(str3), stdin);     
+    
+    strcpy(temp, str3);  
 
     char* tok = strtok(temp, " ");
 
-    while (tok != NULL)
-    {
-        if (strcmp(tok, text_in) != 0)
-        {
-            printf("%s ", tok);
-        }
-        else 
-        {
-            for (int i = 0; i < strlen(text_out); i++)
-            {
-                if (text_out[i] != '\n')
-                {
-                    printf("%c", text_out[i]);
-                }
+    while (tok != NULL)     
+    {         
+        if (strcmp(tok, str1) != 0)         
+        {             
+            printf("%s ", tok);         
+        }         
+        else         
+        {             
+            for (int i = 0; i < strlen(str2); i++)             
+            {                 
+                if(str2[i] != '\n')                     
+                printf("%c", str2[i]);             
             }
-            printf(" ");
-        }
-        tok = strtok(NULL, " ");
-    }
 
+            printf(" ");         
+        }
+
+        tok = strtok(NULL, " ");     
+    }
+    
     return 0;
 }
