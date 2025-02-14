@@ -1,23 +1,22 @@
 #include <stdio.h>
+#include <math.h>
 
-void split(double num, int* int_part, double* frac_part)
+void split(float num, int* int_part, float* frac_part)
 {
-    *int_part = (int)num;
+    *int_part = (int)round(num);
     *frac_part = num - *int_part;
 }
 
 int main()
 {
-    double num, fraction;
+    float num, fraction;
     int integer;
 
-    scanf("%lf", &num);
+    scanf("%f", &num);
 
     split(num, &integer, &fraction);
 
-    printf("%d ", integer);
-    if (fraction < 0) printf("%0.2lf", 0 - fraction);
-    else printf("%0.2lf", fraction);
+    printf("%d %0.2f", integer, fraction);
 
     return 0;
 }
