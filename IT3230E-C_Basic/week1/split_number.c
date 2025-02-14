@@ -3,7 +3,7 @@
 
 void split(float num, int* int_part, float* frac_part)
 {
-    *int_part = (int)round(num);
+    *int_part = (int)floor(num);
     *frac_part = num - *int_part;
 }
 
