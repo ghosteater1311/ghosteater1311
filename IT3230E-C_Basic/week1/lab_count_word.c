@@ -19,6 +19,7 @@ int main()
                 word = 0;
             }
         }
+        count += word;
     }
 
     printf("%d", count);
