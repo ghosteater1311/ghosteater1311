@@ -95,6 +95,6 @@ void Try(int k)
 int main()
 {
     input();
-    Try(0);
+    Try(1);
     return 0;
 }
