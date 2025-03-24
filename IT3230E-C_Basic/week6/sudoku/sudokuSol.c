@@ -80,10 +80,12 @@ void Try(int k)
                 return;
             }
         }
+
         else 
         {
             Try(k + 1);
         }
+        
         mark_rows[r][v] = 0;
         mark_cols[c][v] = 0;
         mark_subsquares[r/3][c/3][v] = 0;
