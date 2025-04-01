@@ -23,12 +23,21 @@
 
 - 📄 Know about my experiences [...](...)
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/ghosteater1311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ghosteater1311" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nguyễn-đức-anh-46b088303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nguyễn-đức-anh-46b088303" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22694113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22694113" height="30" width="40" /></a>
 <a href="https://fb.com/bi.ovo2709" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bi.ovo2709" height="30" width="40" /></a>
 <a href="https://instagram.com/imsqbiovo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imsqbiovo" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ghosteater1311" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ghosteater1311" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nguyenducanhhn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nguyenducanhhn" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/ghosteater1311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ghosteater1311" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ghosteater1311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ghosteater1311" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
