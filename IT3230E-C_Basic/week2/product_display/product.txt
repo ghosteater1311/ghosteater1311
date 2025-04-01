@@ -1,8 +1,0 @@
-1 Samsung_Television_4K 200000000
-2 Apple_Macbook_2020 18650000
-3 Samsumg_Galaxy_A14 5000000
-4 Apple_Iphone_14_Pro_Max 20000000
-5 Lenovo_X1_Nano 19550000
-6 Dell_G14 20185000
-7 IMac_Pro_2022 32550000
-8 Lenovo_Legion_5 23550000
