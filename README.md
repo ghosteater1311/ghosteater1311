@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Duc Anh</h1>
-<h3 align="center">A University Student major Information and Communication Technology (Global ICT)</h3>
+<h3 align="center">A B.S Student major Information and Communication Technology (Global ICT)</h3>
 
 # 💫 About Me:
 <br><br>- 🔭 I’m currently working on **Artificial Intelligent**<br><br>- 🌱 I’m currently learning at **SOICT - Hanoi University of Science and Technology**<br><br>- 👯 I’m looking to collaborate on **some communities or groups.**<br><br>- 🤝 I’m looking for help with **Machine Learning**<br><br>- 👨‍💻 All of my projects are available at [...](...)<br><br>- 📝 I regularly write articles on [...](...)<br><br>- 💬 Ask me about **embedded system, assembly, iot,...**<br><br>- 📫 How to reach me **bihbh5688@gmail.com**<br><br>- 📄 Know about my experiences [...](...)
@@ -15,7 +15,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ghosteater1311&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ghosteater1311&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Repository
+## 🗃️ Repository
 <a href="https://github.com/ghosteater1311/RISC-V_Bitmap_Image_Display">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ghosteater1311&repo=RISC-V_Bitmap_Image_Display&theme=radical"/>
