@@ -2,7 +2,7 @@
 <h3 align="center">B.S Student major Information and Communication Technology (Global ICT)</h3>
 
 # 💫 About Me:
-<br><br>- 🔭 I’m currently working on **Artificial Intelligent**<br><br>- 🌱 I’m currently learning at **SOICT - Hanoi University of Science and Technology**<br><br>- 👯 I’m looking to collaborate on **some communities or groups.**<br><br>- 🤝 I’m looking for help with **Machine Learning**<br><br>- 👨‍💻 All of my projects are available at [...](...)<br><br>- 📝 I regularly write articles on [...](...)<br><br>- 💬 Ask me about **embedded system, assembly, iot,...**<br><br>- 📫 How to reach me **bihbh5688@gmail.com**<br><br>- 📄 Know about my experiences [...](...)
+<br><br>- 🔭 I’m currently working on **Artificial Intelligent**<br><br>- 🌱 I’m currently learning at **SOICT - Hanoi University of Science and Technology**<br><br>- 👯 I’m looking to collaborate on **some communities or groups.**<br><br>- 🤝 I’m looking for help with **Machine Learning**<br><br>- 👨‍💻 All of my projects are available at [...](...)<br><br>- 📝 I regularly write articles on [...](...)<br><br>- 💬 Ask me about **embedded system, assembly, iot,...**<br><br>- 📫 How to reach me **nda27092005@gmail.com**<br><br>- 📄 Know about my experiences [...](...)
 
 
 ## 🌐 Socials:
