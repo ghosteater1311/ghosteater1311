@@ -21,7 +21,10 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ghosteater1311&repo=RISC-V_Bitmap_Image_Display&theme=radical"/>
 </a>
 
-
+<a href="https://github.com/ghosteater1311/Hand-written_Digits_Recognition">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ghosteater1311&repo=Hand-written_Digits_Recognition&theme=merko" />
+</a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ghosteater1311&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
