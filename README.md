@@ -28,7 +28,7 @@
 
 <a href="https://github.com/ghosteater1311/Quick_Lap">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Super-mario-bros-A3C-pytorch&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ghosteater1311&repo=Quick_Lap&theme=gruvbox" />
 </a> 
 
 ## 🏆 GitHub Trophies
