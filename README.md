@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Duc Anh</h1>
-<h3 align="center">Undergraduate Student major Information and Communication Technology (Global ICT)</h3>
+<h3 align="center">Undergraduate Student major Information Technology (Global ICT)</h3>
 
 # 💫 About Me:
 <br><br>- 🔭 I’m currently working on **Artificial Intelligent**<br><br>- 🌱 I’m currently learning at **SOICT - Hanoi University of Science and Technology**<br><br>- 👯 I’m looking to collaborate on **some communities or groups.**<br><br>- 🤝 I’m looking for help with **Machine Learning**<br><br>- 👨‍💻 All of my projects are available at [Here](https://github.com/ghosteater1311?tab=repositories)<br><br>- 💬 Ask me about **embedded system, assembly, iot,...**<br><br>- 📫 How to reach me **nda27092005@gmail.com**<br><br>- 📄 Know about my experiences [...](...)
@@ -25,6 +25,11 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ghosteater1311&repo=Hand-written_Digits_Recognition&theme=merko" />
 </a>
+
+<a href="https://github.com/ghosteater1311/Quick_Lap">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Super-mario-bros-A3C-pytorch&theme=gruvbox" />
+</a> 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ghosteater1311&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
