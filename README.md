@@ -14,7 +14,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ghosteater1311&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ghosteater1311&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ghosteater1311&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=ghosteater1311&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)-->
+![](https://camo.githubusercontent.com/9f0efd695acaa7bf496a1b0a474b901ad99d58d831797d98a38ab22c5e75e564/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d67686f7374656174657231333131267468656d653d6769746875625f6461726b26686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d66616c736526636f756e745f707269766174653d66616c7365266c61796f75743d636f6d70616374)
 
 ## 🗃️ Repository
 <a href="https://github.com/ghosteater1311/RISC-V_Bitmap_Image_Display">
