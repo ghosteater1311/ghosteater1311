@@ -32,6 +32,11 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ghosteater1311&repo=Quick_Lap&theme=gruvbox" />
 </a> 
 
+<a href="https://github.com/ghosteater1311/CPA_Tracker">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ghosteater1311&repo=CPA_Tracker&theme=dark" />
+</a>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ghosteater1311&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
 
