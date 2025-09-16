@@ -13,14 +13,12 @@
 
 # 📊 GitHub Stats:
 <a>
-  <img align="left" src="https://nirzak-streak-stats.vercel.app/?user=ghosteater1311&theme=github_dark&hide_border=false"/>
+  <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=ghosteater1311&theme=github_dark&hide_border=false"/>
 </a>
 
 <a>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghosteater1311&layout=donut&theme=dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghosteater1311&layout=donut&theme=dark"/>
 </a>
-
-
 
 ## 🗃️ Repository
 <a href="https://github.com/ghosteater1311/RISC-V_Bitmap_Image_Display">
