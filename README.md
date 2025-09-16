@@ -44,8 +44,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ghosteater1311&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ghosteater1311&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+## 📚 Learning Material
+<a href="https://github.com/ghosteater1311/MIT-EECS">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ghosteater1311&repo=MIT-EECS&theme=moltack" />
+</a>
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
