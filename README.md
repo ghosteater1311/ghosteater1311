@@ -14,7 +14,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ghosteater1311&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ghosteater1311&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ghosteater1311&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ghosteater1311&layout=donut)
 
 ## 🗃️ Repository
 <a href="https://github.com/ghosteater1311/RISC-V_Bitmap_Image_Display">
