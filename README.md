@@ -23,7 +23,7 @@
 ## 🗃️ Repository
 <a href="https://github.com/ghosteater1311/RISC-V_Bitmap_Image_Display">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ghosteater1311&repo=RISC-V_Bitmap_Image_Display&theme=holi"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ghosteater1311&repo=RISC-V_Bitmap_Image_Display&theme=gotham"/>
 </a>
 
 <a href="https://github.com/ghosteater1311/Hand-written_Digits_Recognition">
