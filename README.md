@@ -50,6 +50,10 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ghosteater1311&repo=MIT-EECS&theme=dracula" />
 </a>
 
+<a href="https://github.com/ghosteater1311/Undergraduate_ICT-Program_SOICT-HUST">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ghosteater1311&repo=Undergraduate_ICT-Program_SOICT-HUST&theme=date_night" />
+</a>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
