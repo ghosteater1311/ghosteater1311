@@ -26,9 +26,9 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ghosteater1311&repo=RISC-V_Bitmap_Image_Display&theme=gotham"/>
 </a>
 
-<a href="https://github.com/ghosteater1311/Hand-Written-Digits_Regconition">
+<a href="">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ghosteater1311&repo=Hand-Written-Digits_Regconition&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ghosteater1311&repo=&theme=merko" />
 </a>
 
 <a href="https://github.com/ghosteater1311/Quick_Lap">
