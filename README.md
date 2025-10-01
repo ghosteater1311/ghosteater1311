@@ -50,9 +50,9 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ghosteater1311&repo=MIT-EECS&theme=dracula" />
 </a>
 
-<a href="https://github.com/ghosteater1311/UnderGra_ICT-Program_SOICT-HUST">
+<a href="https://github.com/ghosteater1311/Major_Courses-ICT_Program-SOICT-HUST">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ghosteater1311&repo=UnderGra_ICT-Program_SOICT-HUST&theme=nightowl" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ghosteater1311&repo=Major_Courses-ICT_Program-SOICT-HUST&theme=nightowl" />
 </a>
 
 <a href="https://github.com/ghosteater1311/Math_Science-ICT_Program_HUST">
