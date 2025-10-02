@@ -62,7 +62,7 @@
 
 <a href="https://github.com/ghosteater1311/ProIT-ICT_Program-SOICT-HUST">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ghosteater1311&repo=ProIT-ICT_Program-SOICT-HUST&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ghosteater1311&repo=ProIT-ICT_Program-SOICT-HUST&theme=gotham" />
 </a>
 
 
