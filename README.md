@@ -52,7 +52,7 @@
 
 <a href="https://github.com/ghosteater1311/CoreIT-ICT_Program-SOICT-HUST">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ghosteater1311&repo=&theme=nightowl" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ghosteater1311&repo=CoreIT-ICT_Program-SOICT-HUST&theme=nightowl" />
 </a>
 
 <a href="https://github.com/ghosteater1311/Math_Science-ICT_Program_HUST">
