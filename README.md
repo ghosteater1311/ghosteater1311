@@ -16,7 +16,7 @@
 </a>
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghosteater1311&layout=donut&theme=merko"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghosteater1311&layout=donut&theme=github_dark"/>
 </a>
 
 ## 🗃️ Repository
