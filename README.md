@@ -32,7 +32,7 @@
 
 <a href="https://github.com/ghosteater1311/Parallel_Image_Convolution">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ghosteater1311&repo=Parallel_Image_Convolution&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ghosteater1311&repo=Parallel_Image_Convolution&theme=tokyonight" />
 </a> 
 
 <a href="https://github.com/ghosteater1311/CPA_Tracker">
