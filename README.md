@@ -35,9 +35,9 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ghosteater1311&repo=Parallel_Image_Convolution&theme=tokyonight" />
 </a> 
 
-<a href="https://github.com/ghosteater1311/Classical-Feature-Based-Image-Classification-Pipeline">
+<a href="https://github.com/ghosteater1311/Classical-Feature_Image-Classification">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ghosteater1311&repo=Classical-Feature-Based-Image-Classification-Pipeline&theme=gotham"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ghosteater1311&repo=Classical-Feature_Image-Classification&theme=gotham"/>
 </a>
 
 <a href="https://github.com/ghosteater1311/CPA_Tracker">
