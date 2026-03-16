@@ -45,9 +45,9 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ghosteater1311&repo=CPA_Tracker&theme=dark" />
 </a>
 
-<a href="https://github.com/ghosteater1311/Convolution-Neutral-Network_from_Scratch">
+<a href="https://github.com/ghosteater1311/CNN_from_Scratch_in_CIFAR10">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ghosteater1311&repo=Convolution-Neutral-Network_from_Scratch&theme=merko"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ghosteater1311&repo=CNN_from_Scratch_in_CIFAR10&theme=merko"/>
 </a>
 
 ## 📚 Learning Material
