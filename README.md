@@ -45,6 +45,11 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ghosteater1311&repo=CPA_Tracker&theme=dark" />
 </a>
 
+<a href="https://github.com/ghosteater1311/Convolution-Neutral-Network_from_Scratch">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ghosteater1311&repo=Convolution-Neutral-Network_from_Scratch&theme=merko"/>
+</a>
+
 ## 📚 Learning Material
 <a href="https://github.com/ghosteater1311/MIT-EECS">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -64,11 +69,6 @@
 <a href="https://github.com/ghosteater1311/ProIT-ICT_Program-SOICT-HUST">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ghosteater1311&repo=ProIT-ICT_Program-SOICT-HUST&theme=gotham" />
-</a>
-
-<a href="https://github.com/ghosteater1311/Convolution-Neutral-Network_from_Scratch">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ghosteater1311&repo=Convolution-Neutral-Network_from_Scratch&theme=merko"/>
 </a>
 
 ### Blogs posts
