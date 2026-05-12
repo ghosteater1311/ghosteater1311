@@ -2,7 +2,7 @@
 <h3 align="center">Undergraduate Student major Information Technology (Global ICT)</h3>
 
 # 💫 About Me:
-<br><br>- 🔭 I’m currently working on **CS/CE, DS/AI**<br><br>- 🌱 I’m currently learning at **SOICT - Hanoi University of Science and Technology**<br><br>- 👯 I’m looking to collaborate on **some communities or groups.**<br><br>- 🤝 I’m interested in **ML, Computer Vision, Advanced Computing, ...etc**<br><br>- 👨‍💻 All of my projects are available at [Here](https://github.com/ghosteater1311?tab=repositories)<br><br>- 📫 How to reach me **nda27092005@gmail.com**<br><br>- 📄 Know about my experiences [...](...)
+<br><br>- 🔭 I’m currently working on **CS/CE, DS/AI**<br><br>- 🌱 I’m currently learning at **SOICT - Hanoi University of Science and Technology**<br><br>- 👯 I’m looking to collaborate on **some communities or groups.**<br><br>- 🤝 I’m interested in **ML/DL, Computer Vision, Computer Graphics, 3D Computer Vision, Advanced Computing<br><br>- 👨‍💻 All of my projects are available at [Here](https://github.com/ghosteater1311?tab=repositories)<br><br>- 📫 How to reach me **nda27092005@gmail.com**<br><br>- 📄 Know about my experiences [...](...)
 
 
 ## 🌐 Socials:
