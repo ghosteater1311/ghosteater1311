@@ -42,9 +42,9 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ghosteater1311&repo=CNN_from_Scratch_in_CIFAR10&theme=merko"/>
 </a>
 
-<a href="https://github.com/ghosteater1311/Incremental_Global_Structure_from_Motion">
+<a href="https://github.com/ghosteater1311/Incremental_Global_SfM">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ghosteater1311&repo=Incremental_Global_Structure_from_Motion&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ghosteater1311&repo=Incremental_Global_SfM&theme=tokyonight" />
 </a>
 
 ## 📚 Learning Material
